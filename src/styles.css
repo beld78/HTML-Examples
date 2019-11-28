@@ -1,3 +1,5 @@
-body {
-  font-family: sans-serif;
+div {
+  background-color: yellow;
+  border: 5px solid red;
+  margin: 10px;
 }
